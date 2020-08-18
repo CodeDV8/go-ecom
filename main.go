@@ -1,6 +1,6 @@
 package main
 
-import EComApp "github.com/CodeDV8/go-ecom-app"
+import EComApp "github.com/codedv8/go-ecom-app"
 
 func main() {
 	app := EComApp.NewApplication()
