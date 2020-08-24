@@ -4,10 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dd10154-dd86-4cfb-9b04-b485524b0d35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-    </list>
+    <list default="true" id="2dd10154-dd86-4cfb-9b04-b485524b0d35" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,10 +63,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="852" y="477" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1597783700879" />
-    <state x="618" y="127" key="CommitChangelistDialog2" timestamp="1598214985659">
+    <state x="618" y="127" key="CommitChangelistDialog2" timestamp="1598300856484">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="618" y="127" key="CommitChangelistDialog2/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1598214985659" />
+    <state x="618" y="127" key="CommitChangelistDialog2/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1598300856484" />
     <state width="1596" height="290" key="GridCell.Tab.0.bottom" timestamp="1597783766500">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -90,10 +87,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="610" y="254" key="SettingsEditor/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1597783646832" />
-    <state x="611" y="291" key="Vcs.Push.Dialog.v2" timestamp="1598215007265">
+    <state x="611" y="291" key="Vcs.Push.Dialog.v2" timestamp="1598300863662">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="611" y="291" key="Vcs.Push.Dialog.v2/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1598215007265" />
+    <state x="611" y="291" key="Vcs.Push.Dialog.v2/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1598300863662" />
     <state x="623" y="280" key="search.everywhere.popup" timestamp="1598275826614">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
