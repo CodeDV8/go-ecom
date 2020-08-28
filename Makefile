@@ -14,4 +14,8 @@ build.cms:
 	@echo "Building CMS"
 	@go build -buildmode=plugin -o ../ecom/system/cms.so ../go-ecom-plugin-cms/
 
-build: build.main build.admin build.api build.cms
+build.store:
+	@echo "Building Store"
+	@go build -buildmode=plugin -o ../ecom/system/store.so ../go-ecom-plugin-store/
+
+build: build.main build.admin build.api build.cms build.store
